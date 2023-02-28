@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f6134b0fbb2e9458f49fa863fcb763, type: 3}
+  m_Name: GameplayAssets
+  m_EditorClassIdentifier: 
+  <SpawnView>k__BackingField: {fileID: 2131496557612362108, guid: 52dc984f1cb354d14945c76019a9225c, type: 3}
+  <Figures>k__BackingField:
+  - {fileID: 2338813368186033541, guid: 165b92c269aeb3e4cb176f53bcbbc74d, type: 3}
+  - {fileID: 2338813368186033541, guid: e1e31ccc55fa8664eaa76f46ee75d979, type: 3}
+  - {fileID: 2338813368186033541, guid: 24e1524cc2d9025488a65ea89097b3ae, type: 3}
